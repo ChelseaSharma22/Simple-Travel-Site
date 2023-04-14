@@ -1,0 +1,10 @@
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: rgb(211, 237, 242);
+    background-image: linear-gradient(rgba(9, 9, 9, 0.5), rgba(75, 75, 71, 0.5)),url();
+  }
+  div {
+    height: 200px;
+    width: 200px;
+  }
+  
